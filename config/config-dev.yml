@@ -1,1 +1,2 @@
-dev
+config:
+  info: springcloud---dev version=1
