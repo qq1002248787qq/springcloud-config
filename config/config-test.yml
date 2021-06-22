@@ -1,2 +1,2 @@
 config:
-  info: springcloud---test version=1
+  info: "springcloud---test version=1"
